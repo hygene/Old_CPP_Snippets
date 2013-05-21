@@ -1,0 +1,7 @@
+[Old C++ Snippets]
+This is a collection of C++ snippets written over time
+
+[Files]
+anagram.cpp - Determines whether 2 strings are anagrams of each other
+list_printreverse.cpp - Takes a list and prints the reverse of its elements
+string_reverse.cpp - Takes a string and reverses it
